@@ -30,10 +30,10 @@
  **************************************************************************************************/
 #pragma once
 
-#include <cute/config.hpp>
+#include </mnt/d/GitHub/cutlass/include/cute/config.hpp>
 
-#include <cute/util/type_traits.hpp>
-#include <cute/numeric/math.hpp>
+#include </mnt/d/GitHub/cutlass/include/cute/util/type_traits.hpp>
+#include </mnt/d/GitHub/cutlass/include/cute/numeric/math.hpp>
 
 namespace cute
 {

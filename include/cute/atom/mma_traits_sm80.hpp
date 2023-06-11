@@ -30,12 +30,12 @@
  **************************************************************************************************/
 #pragma once
 
-#include <cute/arch/mma_sm80.hpp>
-#include <cute/atom/mma_traits.hpp>
+#include </mnt/d/GitHub/cutlass/include/cute/arch/mma_sm80.hpp>
+#include </mnt/d/GitHub/cutlass/include/cute/atom/mma_traits.hpp>
 
-#include <cute/layout.hpp>
+#include </mnt/d/GitHub/cutlass/include/cute/layout.hpp>
 
-#include <cute/numeric/integer_subbyte.hpp>
+#include </mnt/d/GitHub/cutlass/include/cute/numeric/integer_subbyte.hpp>
 
 #include <cutlass/numeric_types.h>
 
